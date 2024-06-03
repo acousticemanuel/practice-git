@@ -1,5 +1,3 @@
 #Lets start markdown
 
-I just now heard about markdown
-
-Also have an understanding of git but github has me confused
+This is my chane to the "MyReadme" file. testing forking and committing on Github CLI.
